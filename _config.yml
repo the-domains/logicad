@@ -1,0 +1,14 @@
+layout_spectrum: 0.12407938996329904
+typography_spectrum: 0.1867801658809185
+color:
+  brandStrength: 0.45358270360156894
+  lightness: 0.8735035245772451
+  saturation: 0.13829548610374331
+  rhythmicContrast: 0.6163232503458858
+  brandColors:
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
+name: Logicad
