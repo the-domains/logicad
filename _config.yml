@@ -14,5 +14,9 @@ layout_spectrum: 0.12407938996329904
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/61df4ef1-a364-47bc-8fea-1d0c16752967.png
 name: Logicad
+navigation:
+  - name: Esprit CAM
+    url: www.espritcam.com
+    type: external
 title: LOGICAD SOLUTIONS
 description: 'IF YOU CAD IMAGINE IT, YOU CAM BUILD IT!'
